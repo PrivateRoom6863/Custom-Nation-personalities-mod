@@ -1,15 +1,21 @@
-"name": "Aggressive",
-    "production": 10,
-    "food": 10,
-    "gold": 10,
-    "science": 10,
-    "culture": 5,
-    "happiness": 10,
-    "faith": 10,
-    "military": 10,
-    "aggressive": 10,
-    "declareWar": 10,
-    "commerce": 10,
-    "diplomacy": 7,
-    "loyal": 1,
-    "expansion": 10
+[
+
+    {
+     "name": "Aggressive",
+         "production": 10,
+         "food": 10,
+         "gold": 10,
+         "science": 10,
+         "culture": 5,
+         "happiness": 10,
+         "faith": 10,
+         "military": 10,
+         "aggressive": 10,
+         "declareWar": 10,
+         "commerce": 10,
+         "diplomacy": 7,
+         "loyal": 1,
+         "expansion": 10
+    }
+
+]
