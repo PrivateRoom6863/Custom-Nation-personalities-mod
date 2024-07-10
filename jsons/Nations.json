@@ -20,7 +20,7 @@
         "innerColor": [60, 0, 7],
 
 		"uniqueName": "The Golden Times",
-		"uniques": ["[+5 Production, +5 Happiness, +5 Culture] [in all cities]", "[+100]% Strength <for [Military] units>", "Cities are razed [1000] times as fast", "\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["Cities are razed [1000] times as fast", "\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Cekrym Headquarters"],
         "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
     }
