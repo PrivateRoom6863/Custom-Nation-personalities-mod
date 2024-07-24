@@ -2,20 +2,20 @@
 
     {
      "name": "Aggressive",
-     "production": 25,
+     "production": 20,
     "food": 20,
-    "gold": 25,
-    "science": 25,
+    "gold": 30,
+    "science": 30,
     "culture": 20,
     "happiness": 25,
     "faith": 20,
-    "military": 25,
-    "aggressive": 10,
-    "declareWar": 10,
-    "commerce": 25,
+    "military": 35,
+    "aggressive": 35,
+    "declareWar": 35,
+    "commerce": 30,
     "diplomacy": 7,
     "loyal": 4,
-    "expansion": 30
+    "expansion": 40
     }
 
 ]
