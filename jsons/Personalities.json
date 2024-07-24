@@ -4,18 +4,18 @@
      "name": "Aggressive",
      "production": 6,
     "food": 5,
-    "gold": 6,
-    "science": 5,
-    "culture": 5,
-    "happiness": 8,
+    "gold": 8,
+    "science": 6,
+    "culture": 7,
+    "happiness": 10,
     "faith": 4,
-    "military": 7,
-    "aggressive": 4,
+    "military": 10,
+    "aggressive": 9,
     "declareWar": 5,
     "commerce": 4,
     "diplomacy": 7,
     "loyal": 4,
-    "expansion": 8
+    "expansion": 9
     }
 
 ]
