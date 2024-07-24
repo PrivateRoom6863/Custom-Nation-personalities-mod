@@ -7,22 +7,22 @@
 		"adjective": ["Swabi"],
     "personality": "Aggressive", 
 
-    "startIntroPart1": "GO GO GO",
+    "startIntroPart1": "",
 
-    "declaringWar": "Get Rekd.",
-		"defeated": "My people will mourn me not with tears, but with human blood.",
-		"attacked": "I'm tired with this.",
+    "declaringWar": "GL",
+		"defeated": "Gg. I earned your respect.",
+		"attacked": "Think twice before you decide.",
 		"introduction": "Sup.",
-		"neutralHello": "Yo.",
+		"neutralHello": "Wsg.",
 		"hateHello": "What do you want?",
-		"tradeRequest": "Everytime I trade, they always denied my offer. So, I know, that you will deny this offer.",
+		"tradeRequest": "You're lucky that i offer such W Offer.",
 
         "outerColor": [150, 198, 167],
         "innerColor": [60, 0, 7],
 
-		"uniqueName": "Terror of the cities",
+		"uniqueName": "Conquestor",
 		"uniques": ["Cities are razed [1000] times as fast", "\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["Cekrym Headquarters"],
+		"cities": ["!     !  !"],
         "spyNames": ["Chotic", "Uben", "Doqi", "Chero", "Octaroon", "Blade", "Ellas", "Dognizik", "Hildik", "Gudruk"]
     }
 
