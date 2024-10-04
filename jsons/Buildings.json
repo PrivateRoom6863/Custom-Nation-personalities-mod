@@ -1,0 +1,30 @@
+[ 
+ {
+		"name": "Läfīsjdìgøk",
+        "uniqueTo": "Exclamation Point Empire",
+   "cost": 75,
+		"cityStrength": 12,
+		"cityHealth": 155,
+		"hurryCostModifier": 35,
+		"uniques": ["Destroyed when the city is captured", "[+20]% Strength <for [Military] units> <in cities with a [Läfīsjdìgøk]>"]
+ },
+   {
+		"name": "Cûltivated Fårm",
+        "uniqueTo": "Exclamation Point Empire",
+		"cost": 90,
+		"hurryCostModifier": 35,
+     "maintenance": 2,
+		"uniques": ["[+2 Food] [in this city]",
+      "Destroyed when the city is captured",
+    "[33]% growth [in this city]"]
+   },
+  {
+		"name": "LaBaräûcjsGj",
+        "uniqueTo": "Exclamation Point Empire",
+    "cost": 1,
+		"hurryCostModifier": 1,
+    "maintenance": 1,
+		"uniques": ["Destroyed when the city is captured", "New [Military] units start with [35] Experience [in this city]"]
+  }
+]
+   
